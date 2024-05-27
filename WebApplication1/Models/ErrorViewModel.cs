@@ -1,4 +1,4 @@
-namespace WebApplication1.Models
+namespace CrudNet8MVC.Models
 {
     public class ErrorViewModel
     {
